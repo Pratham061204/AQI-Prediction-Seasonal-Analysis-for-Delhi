@@ -5,7 +5,7 @@ This repository contains a Jupyter Notebook that analyzes and predicts the **Air
 ## 📊 Project Overview
 - **Dataset:**  
   Combined from [Kaggle's Air Quality Data in India](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india/data) and CPCB's official air quality portal.  
-  The raw dataset contains **3,683 rows** of daily pollutant measurements.
+  The raw dataset contains **3,683 rows** of daily pollutant measurements for Delhi.
 - **Key Features:**  
   - PM2.5, PM10, NO, NO₂, NOx, NH₃, CO, SO₂, O₃, Benzene, Toluene
   - AQI value and AQI category (Good, Satisfactory, Moderate, Poor, Very Poor, Severe)
