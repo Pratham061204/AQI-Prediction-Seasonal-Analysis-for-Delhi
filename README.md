@@ -31,7 +31,7 @@ This repository contains a Jupyter Notebook that analyzes and predicts the **Air
    - Seasonal AQI peaks in winters
    - AdaBoost with RandomizedSearchCV (best performer in 70-30 split) and CatBoost (best performer in 5-fold CV)
 
---
+---
 ## 📚 Data Sources & Acknowledgements
 - **Kaggle:** Air Quality Data in India — by Rohan Rao  
   https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india/data
